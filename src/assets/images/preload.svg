@@ -1,0 +1,18 @@
+<svg height="100%" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" version="1.1" viewBox="0 0 857 151">
+<g id="kevin">
+  <!-- Path for letter K -->
+  <path id="kevin-k" stroke="#10e956" stroke-width="5" d="M40 3 L40 148 L70 148 L70 83 L130 148 L160 148 L100 85 L160 3 L130 3 L70 70 L70 3 Z" fill="none" stroke-linecap="butt" opacity="1" stroke-linejoin="miter"/>
+  
+  <!-- Path for letter E -->
+  <path id="kevin-e" stroke="#10e956" stroke-width="5" d="M180 3 L180 148 H250 V125 H205 V85 H250 V60 H205 V25 H250 V3 H180 Z" fill="none" stroke-linecap="butt" opacity="1" stroke-linejoin="miter"/>
+  
+  <!-- Path for letter V -->
+  <path id="kevin-v" stroke="#10e956" stroke-width="5" d="M270 3 L320 148 L340 148 L390 3 H360 L330 120 L300 3 Z" fill="none" stroke-linecap="butt" opacity="1" stroke-linejoin="miter"/>
+  
+  <!-- Path for letter I -->
+  <path id="kevin-i" stroke="#10e956" stroke-width="5" d="M410 3 L410 148 L440 148 L440 3 H410 Z" fill="none" stroke-linecap="butt" opacity="1" stroke-linejoin="miter"/>
+  
+  <!-- Path for letter N -->
+  <path id="kevin-n" stroke="#10e956" stroke-width="5" d="M460 3 L460 148 L490 148 L490 70 L550 148 L580 148 L580 3 L550 3 L550 78 L490 3 Z" fill="none" stroke-linecap="butt" opacity="1" stroke-linejoin="miter"/>
+</g>
+</svg>
