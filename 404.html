@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; URL=./index.html" />
+    <script>
+      const path = window.location.pathname.split('/').slice(1).join('/');
+      window.history.replaceState({}, '', '/' + path);
+    </script>
+  </head>
+  <body></body>
+</html>
