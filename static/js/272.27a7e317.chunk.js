@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkonyedika=self.webpackChunkonyedika||[]).push([[272],{3272:(e,s,n)=>{n.r(s),n.d(s,{default:()=>t});var c=n(579);const t=function(){return(0,c.jsx)("div",{className:"contact",children:(0,c.jsx)("p",{children:"\xa9 Copyright 2024, All Rights Reserved."})})}}}]);
-//# sourceMappingURL=272.27a7e317.chunk.js.map
