@@ -1,4 +1,3 @@
-import ProjectSlider from "./../../components/projectSlider";
 import { useState } from "react";
 import React, { useEffect, useRef } from "react";
 import { ReactComponent as QuoteRight } from "./../../assets/images/quote-right.svg";
@@ -415,7 +414,7 @@ function Home() {
           </div>
         </div>
       </div>
-      <div className="showroom-section hidden">
+      {/* <div className="showroom-section hidden">
         <div className="showroom-title">
           <h2>Showroom</h2>
         </div>
@@ -434,7 +433,7 @@ function Home() {
             All Project details
           </button>
         </div>
-      </div>
+      </div> */}
       {/* <div className="featured hidden">
         <div className="featured-title">
           <h2>Featured</h2>

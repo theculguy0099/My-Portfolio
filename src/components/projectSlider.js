@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { ProjectData  } from './projectData';
-import { FaArrowAltCircleRight, FaArrowAltCircleLeft } from 'react-icons/fa';
 import {ReactComponent as Cursor} from './../assets/images/cursorDark.svg';
 
 const ProjectSlider = ({setBackground}) => {

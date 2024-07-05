@@ -26,7 +26,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build" 
   },
   "eslintConfig": {
     "extends": [
@@ -48,6 +50,8 @@
   },
   "devDependencies": {
     "file-loader": "^6.2.0",
+    "gh-pages": "^6.1.1",
     "prettier": "2.6.2"
-  }
+  },
+  "homepage": "https://theculguy0099.github.io/My-Portfolio/"
 }

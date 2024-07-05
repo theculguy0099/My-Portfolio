@@ -19,7 +19,7 @@ function LinearProgressWithLabel(props) {
       .to(q(".square"), {
         duration: 1.5, ease: "powerInOut", opacity: 1, repeat: -1, yoyo: true
       });
-      }, []);
+      }, [q]);
   return (
     <div className="preload">
       <div className="loader">

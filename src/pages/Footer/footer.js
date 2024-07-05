@@ -1,5 +1,4 @@
 import './footer.scss'
-import { ReactComponent as MailImg } from './../../assets/images/mail.svg'
 import InstagramIcon from '../Header/InstagramIcon'
 import FacebookIcon from '../Header/FacebookIcon'
 import GmailIcon from '../Header/GmailIcon'
