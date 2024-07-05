@@ -52,6 +52,5 @@
     "file-loader": "^6.2.0",
     "gh-pages": "^6.1.1",
     "prettier": "2.6.2"
-  },
-  "homepage": "https://theculguy0099.github.io/My-Portfolio/"
+  }
 }

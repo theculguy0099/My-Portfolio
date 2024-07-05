@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkonyedika=self.webpackChunkonyedika||[]).push([[354],{9354:(e,s,n)=>{n.r(s),n.d(s,{default:()=>l});var i=n(579);const l=function(){return(0,i.jsx)("div",{className:"blog",children:(0,i.jsx)("p",{children:"\xa9 Copyright 2022, GRUVVE. All Rights Reserved."})})}}}]);
+//# sourceMappingURL=354.2dd86f9b.chunk.js.map
