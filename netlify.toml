@@ -1,8 +1,8 @@
 # example netlify.toml
 [build]
-  command = "npm install --legacy-peer-deps && npm run start"
+  command = "npm install --legacy-peer-deps && npm run build"
   functions = "netlify/functions"
-  publish = "public"
+  publish = "build"
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
