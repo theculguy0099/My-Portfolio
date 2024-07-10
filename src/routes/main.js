@@ -21,7 +21,7 @@ const Preloader = React.lazy(
 )
 
 var mainRoutes = [
-    { path: '/home', name: 'Homepage', component: <Home /> },
+    { path: '/', name: 'Homepage', component: <Home /> },
     { path: '/channels/me', name: 'Homepage', component: <Home /> },
     { path: '/blog', name: 'Blog', component: <Blog /> },
     { path: '/work', name: 'Work', component: <Work /> },

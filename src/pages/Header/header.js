@@ -144,7 +144,7 @@ function Header() {
                     </div>    
                 <div className="small_menu">
                     <ul>
-                        <li className="menu-one"><NavLink className="nav-link" onClick={check} to="/home">Home</NavLink></li>
+                        <li className="menu-one"><NavLink className="nav-link" onClick={check} to="/">Home</NavLink></li>
                         <li className="menu-two"><NavLink className="nav-link" onClick={check} to="/work">Work</NavLink></li>
                         <li className="menu-three"><NavLink className="nav-link" onClick={check} to="/achievements">About</NavLink></li>
                         <li className="menu-four"><a className="nav-link" href="https://iiitaphyd-my.sharepoint.com/:b:/g/personal/kevin_thakkar_students_iiit_ac_in/Ef0Vw9DPXYFPoCQqIBROWLEBUgEDrUXUCfr2YAuhrzce4w?e=2tgeb7" target="_blank">Resume</a></li>

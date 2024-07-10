@@ -2,7 +2,7 @@
     max-width: 100% !important;
     width: 100%;
     margin: 0;
-    overflow: hidden !important;
+    // overflow: hidden !important;
     .home-intro {
         display: flex;
         justify-content: space-between;
@@ -18,9 +18,9 @@
     // position: relative;
         padding: 0 5rem;
         padding-top: 8rem;
-        &.hidden {
-            opacity: 0;
-        }
+        // &.hidden {
+        //     opacity: 0;
+        // }
         &.show {
             opacity: 1;
             .content {
@@ -259,9 +259,9 @@
        justify-content: center;
        align-items: center;
        padding: 5rem 0;
-       &.hidden {
-        opacity: 0;
-    }
+    //    &.hidden {
+    //     opacity: 0;
+    // }
     &.show {
         opacity: 1;
         .tooling-title {
@@ -405,7 +405,7 @@
         position: relative;
         height: 90vh;
         width: 100%;
-        overflow: hidden;
+        // overflow: hidden;
       
         @media (min-width: 1025px) and (max-width: 1300px) {
           height: 100vh;
@@ -494,9 +494,9 @@
     @media (max-width: 479px) {
         margin-top: 2rem;
     }
-    &.hidden {
-        opacity: 0;
-    }
+    // &.hidden {
+    //     opacity: 0;
+    // }
     &.show {
         opacity: 1;
         .showroom-title {
@@ -690,9 +690,9 @@
     margin-top: 10rem;
     margin-bottom: 10rem;
     position: relative;
-    &.hidden {
-        opacity: 0;
-    }
+    // &.hidden {
+    //     opacity: 0;
+    // }
     &.show {
         opacity: 1;
         .quote-body {
@@ -839,9 +839,9 @@
     align-items: center;
     padding: 5rem 0;
     margin-top: 3rem;
-    &.hidden {
-        opacity: 0;
-    }
+    // &.hidden {
+    //     opacity: 0;
+    // }
     &.show {
         opacity: 1;
         .featured-title {
